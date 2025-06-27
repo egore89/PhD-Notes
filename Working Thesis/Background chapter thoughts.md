@@ -1,0 +1,43 @@
+- Sections for the background
+	- [[History of linguistic study in the Morehead area]]
+	- Grammar writing theory
+		- Basic Linguistic Theory
+		- A review and engagement with literature on this subject
+			- [[Dixon 1997]]
+				- Dixon 2010 
+					- ?? does this need to be more than a sentence such as 
+						- This theory was fleshed out in Dixon 2010 however the basics are covered in 1997 and Dryer 2006.
+			- [[Ameka et al. 2006]] Catching Language
+			- Perspectives on Grammar Writing
+			- The Art and Practice of Grammar Writing
+			-  Functional Grammar of Gooniyandi
+				- A non-BLT grammar
+				- Dixon 1972?
+	- Sociolinguistic setting
+		- Anthropology work background?
+
+- Annual report on British New Guinea 1888-89 AND 1889-90 is available online through the ANU library
+	- in which the Morehead river is discovered by Europeans for the first time
+	- ==some wordlists are available==
+- Searching 'british new guinea report' yields a number of these reports from the late 19th century
+
+- Zero Patient prefix used with A-aligned Intransitive verbs in [[Siegel 2023]] is equivalent to Middle prefix/verbs in [[Evans 2014]]. Siegel's P-aligned Intransitive verbs are Evans' Prefixing, highly restricted verb class.
+
+- Debate regarding framework-free description as outlined in [[Haspelmath 2009]] could be worth describing and aligning with one side in a background chapter
+	- this kind of summary is not something I've seen in other descriptive grammars
+	- if I am introducing new terms for different grammatical structures then it might be worth having a section of these in the introduction.
+- Is there space for me to have a "typological comparison" or "comparative concepts" chapter at the end? Using Basic Linguistic Theory, or another framework? An attempt to bridge descriptive and comparative linguistics/typology?
+	- Including other Yam languages?
+
+- Framework for my description
+	- Prioritises an approach that does not apply categories to Namo, tries to describe the language on its own terms.
+- At the end of the day, I want to describe Namo without trying to force it to fit certain frameworks, but I also need to use concepts such as affix, verb, word order formal characteristics, morphosyntactic processes. 
+	- I would like to include more than just one sentence in my "theoretical framework" section
+		- State/summarize the goals of [[Haspelmath 2009]] as "describing the language on its own terms"
+		- Acknowledge from [[Newmeyer 2007]] that certain categories are extremely useful, and that formal criteria are widely used and useful for describing and understanding certain phenomena
+		- Where does Basic Linguistic Theory fit? Do I list it as the foundation? Or describe more as the foundation?
+		- Referring to other published work on Yam languages as a guide for what formal characteristics to expect
+			- Could I have a chapter on unexpected finds? A section? Something to show that I thought about and held space for things not described in other languages?
+			- Then I can have an overview of the different descriptions such as case, and verbal morphology. 
+				- Need to investigate how Tonda languages are different/the same as Nambu languages in order to include those analyses here also
+- 
