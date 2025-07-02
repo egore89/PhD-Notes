@@ -8,10 +8,10 @@ If categories don't exist, how do we describe a language? How do we do typology
 
 - What information do I need from this reading?
 What is the primary argument Haspelmath is making here?
-How does that argument compare and relate do that of [[Haspelmath 2009]]
+How does that argument compare and relate do that of [[PhD_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2009]]
 
 - How much time and energy is it worth?
-Maybe an hour, since I plan to use it for [[Assessment]] 1 in LING9032. A deep read for sure. 
+Maybe an hour, since I plan to use it for [[20250702_ARCHIVE_Old_Notes/Coursework/LING9032/Assessment]] 1 in LING9032. A deep read for sure. 
 
 
 ### Sections/Chapters

@@ -11,7 +11,7 @@ Knauft, Bruce M. 1993
 	year = {1993}
 }  
 
-I got this book out because Christian mentions it in the introduction to [[Dohler 2021 Birds and places]] and I thought it might add some information to [[Ayres 1983]] and [[Williams 1936]] about the anthropological situation of this region. 
+I got this book out because Christian mentions it in the introduction to [[20250702_ARCHIVE_Old_Notes/Readings/Dohler 2021 Birds and places]] and I thought it might add some information to [[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]] and [[PhD_Notes/Readings/Anthropology Readings/Williams 1936]] about the anthropological situation of this region. 
 
 The most important thing to find out is whether I need to include reference to this book in my NRI project proposal. I believe this answer to be "no".
 ## Thoughts

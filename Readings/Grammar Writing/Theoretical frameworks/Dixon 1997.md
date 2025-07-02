@@ -21,7 +21,7 @@ R.M.W. Dixon
 	- All languages are roughly equal in terms of overall complexity.
 - pp. 124-5 
 	- discusses adjective classes
-		- a place to think for [[Working Thesis overview]] sections is to think about which of these classes adjectives in Namo/Yam languages fall into
+		- a place to think for [[20250702_ARCHIVE_Old_Notes/Working Thesis/Working Thesis overview]] sections is to think about which of these classes adjectives in Namo/Yam languages fall into
 			- do these then fit with the typological correlation between head/dependent marking and adjective classes outlined on page 125?
 - p. 127
 	- "If one simply examines a few dozen languages, all spoken by large communities, nine-tenths of the diversity and complexity of human language will remain undiscovered."

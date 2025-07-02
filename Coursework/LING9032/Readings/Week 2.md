@@ -71,7 +71,7 @@ Making a strong start
 
 - any concrete work early in the phd is time well spent.
 - headings in a "working thesis" document can change, and may be unhelpful in the final writeup. 
-	- to consider when working with [[Working Thesis overview]]
+	- to consider when working with [[20250702_ARCHIVE_Old_Notes/Working Thesis/Working Thesis overview]]
 
 p. 44:
 - "To get started on the thesis, you must acknowledge and *harness* \[the tension between rational, conscious thinking and creative, unconscious thinking]."

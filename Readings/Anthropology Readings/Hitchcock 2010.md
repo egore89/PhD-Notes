@@ -38,7 +38,7 @@ References and end-matter begins on page 16 of the PDF (85 of the article 70-90)
 
 - "aggraded" a word used on p.75. "Aggrade" is to fill in with material, and refers to an increase in elevation due to the accumulation of sediment. This is used in conjunction with the low-lying coastal plain, suggesting the height of the land is rising. 
 
-- The people of (the region in this study) are part of the Morehead linguistic-culture group ... and share a common kinship system, customs and material culture (references to [[Ayres 1983]], [[Williams 1936]], [[Wurm and Hattori 1981 Language Atlas of the Pacific Area]], and a Hitchcock article from 2004).
+- The people of (the region in this study) are part of the Morehead linguistic-culture group ... and share a common kinship system, customs and material culture (references to [[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]], [[PhD_Notes/Readings/Anthropology Readings/Williams 1936]], [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm and Hattori 1981 Language Atlas of the Pacific Area]], and a Hitchcock article from 2004).
 
 
 - Three exogamous sections (p.75)
@@ -48,10 +48,10 @@ References and end-matter begins on page 16 of the PDF (85 of the article 70-90)
 - Each individual belongs to one of the sections ==as well as to their own (patrifilial) clan (patriline)==.
 - __Within a dialect group__:
 	- the section group is the most important unit of social organisation
-	- [[Ayres 1983]] page 155
-	- [[Williams 1936]] pages 56, 66, 114.
+	- [[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]] page 155
+	- [[PhD_Notes/Readings/Anthropology Readings/Williams 1936]] pages 56, 66, 114.
 
-- "Prior to (the Australian government forced them to establish permanent villages after WWII) each dialect group in the area typically comprised three or four settlements, each home to __one or more patrilines__ representing __one or two (or all) sections__ " ([[Ayres 1983]] page 142, [[Williams 1936]] page 51). p.76
+- "Prior to (the Australian government forced them to establish permanent villages after WWII) each dialect group in the area typically comprised three or four settlements, each home to __one or more patrilines__ representing __one or two (or all) sections__ " ([[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]] page 142, [[PhD_Notes/Readings/Anthropology Readings/Williams 1936]] page 51). p.76
 - "Following (PNG) Independence there has been a trend away from village nucleation (permanent settlements) to a number of smaller settlements." p.76
 
 - Yams are currently the most important crop, but it used to be Taro in the middle Bensbach area. p.76

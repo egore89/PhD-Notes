@@ -11,7 +11,7 @@
 - I'm going to need to re-listen to the recordings when it comes time to talk about prosody, stress, emphasis
 
 
-- 'dropped' vowels introduced in [[Lexicon]]
+- 'dropped' vowels introduced in [[PhD_Notes/Working Thesis/Lexicon]]
 	-  'stop' /aβraŋgo-/ ends in an /o/ but this is dropped in imperative dual
 		- -> /k-aβraŋg-end/
 		- this same occurs in the plural of this paradigm, except with the plural suffix which appears to be /-angi/ but here is /-ngi/
@@ -23,5 +23,5 @@
 
 - what is the status of /z/ and /nz/ and /s/ and /ʃ/ in related languages?
 	- this could be an interesting thing about Namo, yet another reason to investigate
-		- Is this sound change in progress? What evidence could there already be for or against this hypothesis? [[Confirmation Of Candidature]]
+		- Is this sound change in progress? What evidence could there already be for or against this hypothesis? [[20250702_ARCHIVE_Old_Notes/Confirmation Of Candidature]]
 

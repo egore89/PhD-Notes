@@ -3,7 +3,7 @@
 - TROVE is a place I might find Kiap reports. Chris Ballard also very useful and very approachable.
 - Write out some summaries and photocopies into a bound little booklet, and take along at least 3 copies. 2 to hand out, one for myself for notes and stuff.
 
-- Asking about where villages used to be (for example, Tuj in [[Williams' Fieldnotes]] may be Tais (Tz) of today) is a good way to get texts and people talking. People's relationships with these places will also be good texts. 
+- Asking about where villages used to be (for example, Tuj in [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams' Fieldnotes]] may be Tais (Tz) of today) is a good way to get texts and people talking. People's relationships with these places will also be good texts. 
 - People likely return to these places for fishing, activities, and resources.
 
 - Some Nen epenthetic vowels appear to be residuals from full vowels in the proto-language.
@@ -53,4 +53,4 @@ Some verbs are only imperfective, only perfective, or may be both imperfective a
 read: 
 - [[Positional verbs in Nen]]
 - [[Inflection in Nen]]
-- An article by Len Talmy from 1985 to do with typology, containing a description of the 3-way distinction described in [[Linguistics Seminar 31.1.25]] for stative/inchoative/causative verbs. Appears to be a chapter in "Language Typology and Syntactic Description" by Shopen. 
+- An article by Len Talmy from 1985 to do with typology, containing a description of the 3-way distinction described in [[PhD_Notes/Meeting Notes/Linguistics Seminar 31.1.25]] for stative/inchoative/causative verbs. Appears to be a chapter in "Language Typology and Syntactic Description" by Shopen. 

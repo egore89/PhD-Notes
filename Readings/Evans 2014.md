@@ -45,7 +45,7 @@ Introduction
 
 - positional verbs in Nen are identifiable with a -ngr suffix. 
 	- In Namo this is -ong or -are.
-	- In Nama [[Siegel 2023]], there is no discussion of number therein so unclear whether there is a 4-way distinction or not.
+	- In Nama [[PhD_Notes/Readings/Siegel 2023]], there is no discussion of number therein so unclear whether there is a 4-way distinction or not.
 		- Siegel calls the suffixes:
 			- Perfective inceptive marker: -ang
 			- which then adds a dual marking suffix -(a)r

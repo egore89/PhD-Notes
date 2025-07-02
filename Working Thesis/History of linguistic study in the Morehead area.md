@@ -7,7 +7,7 @@ Connects to:
 ## My understanding of the history of linguistic study in the Morehead area
 
 - 1890 Morehead river discovered
-	- source [[Hitchcock 2004]] Appendix 1 
+	- source [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Hitchcock 2004]] Appendix 1 
 		- Do I need to obtain the official report from 1889-90 referenced by this source? DONE
 - Annual report on British New Guinea 1895 contains wordlists from Morehead region, uses name "Bangu"
 - 1907 Reports on Cambridge Expedition to the Torres Strait
@@ -21,15 +21,15 @@ Connects to:
 	- no wordlists from Morehead area
 	- Annual report to parliament on the Territory of Papua
 - 1926-32 Williams visits region
-	- 1936 [[Williams 1936]] published
+	- 1936 [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams 1936]] published
 - 1930 Riley and Ray publish Sixteen Vocabularies
 	- Seem to be articles in a journal called Anthropos
 		- The International Journal of Anthropology and Linguistics. Still current.
 
 - 1940s Kiap reports from Morehead
-	- [[More1943]]
-	- [[More1946]]
-	- [[More1950]]
+	- [[20250702_ARCHIVE_Old_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1943]]
+	- [[20250702_ARCHIVE_Old_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1946]]
+	- [[20250702_ARCHIVE_Old_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1950]]
 - 1950 Police station at Rouku established
 	- Kiap reports for 1950s
 - 1959 Police station moved to Morehead
@@ -37,14 +37,14 @@ Connects to:
 - 1968 Voorhoeve publishes Report on language situation in southern New Guinea
 	- [[Voorhoeve 1968]]
 - 1971 Wurm visits area
-	- [[Wurm 1971]]
+	- [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm 1971]]
 - 1975-77 Wurm edits and publishes large volume on Papuan languages
-	- [[Wurm 1975]]
+	- [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm 1975]]
 - This involved the positing of the Trans-New Guinea hypothesis of related languages.
 	- Included Morehead-Upper Maro (Yam) languages as TNG
 
 - 2005 Pawley publishes Papuan pasts
-	- [[Ross 2005]] reviews findings and genealogical groupings in [[Wurm 1975]]
+	- [[Ross 2005]] reviews findings and genealogical groupings in [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm 1975]]
 	- Based on pronoun forms
 - Revises and refines the TNG hypothesis
 	- Removes Morehead-Upper Maro 'phylum' from TNG, but retains the same group re. members as Wurm.
@@ -55,7 +55,7 @@ Connects to:
 	- States that it's not clear whether Tonda Nambu and Yei are related, but based on numerals seems likely (p. 306/2). 
 	- Goes over just the counting systems and includes fair analysis of Nambu, Tonda, and Yei. 
 - 2012 [[Evans 2012]] continues and solidifies
-- 2017 [[Evans et al 2017]] 
+- 2017 [[20250702_ARCHIVE_Old_Notes/Readings/Evans et al 2017]] 
 
 ## Notes
 
@@ -64,12 +64,12 @@ Connects to:
 		- Do I need to explain why the language is called Dorro in glottolog and ethnologue? Probably. One TODO for during and after a bit of fieldwork is to understand the difference between Mari and Tais varieties, and the social and population situations of these villages.
 			- Mari is much more established
 			- What language do Tais speakers really speak? How much Len is there? My impression is that Len is close to Parb, based on the wordlist in Ray and Riley. 
-				- Stated outright in [[Wurm 1971]]
+				- Stated outright in [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm 1971]]
 - How should I set this out? Separate sections for each source? Each wordlist source? Or one big section comparing all the wordlists? 
 	- How much do the wordlists differ? A good place to start. TODO
-	- Need to work out how to reference kiap reports. [[Reading TODOs]] has some notes on this.
+	- Need to work out how to reference kiap reports. [[20250702_ARCHIVE_Old_Notes/Reading TODOs]] has some notes on this.
 - A difficulty in understanding the history of languages is that the naming conventions in older sources follow village names? 
-	- Using the word for "what" is old AF in local mythology. cf [[Ayres 1983]]
+	- Using the word for "what" is old AF in local mythology. cf [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Ayres 1983]]
 	- How have village names changed in the last 100 years? Why are there so many words in Riley & Ray, or Williams that don't correspond to modern villages? 
 
 - How much of the debate around TNG do I need to include in my thesis? 
@@ -83,7 +83,7 @@ Connects to:
 
 ## Sections in Introduction/Background chapter
 
-- A section to start that covers the "Introduction" section discussed in "How to write a better thesis" [[Coursework/LING9032/Readings/Week 2|Week 2]]
+- A section to start that covers the "Introduction" section discussed in "How to write a better thesis" [[20250702_ARCHIVE_Old_Notes/Coursework/LING9032/Readings/Week 2|Week 2]]
 	- Problem statement
 	- Aim & Scope
 	- Thesis overview
@@ -96,7 +96,7 @@ Connects to:
 	- 3 (what's another word for "era") of study
 		- Colonial 1890-1974
 			- Where do kiap reports fit in this? 
-			- [[Williams 1936]] 
+			- [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams 1936]] 
 			- [[Ray 1923]] 
 			- [[Riley & Ray 1930]] 
 			- These ones have wordlists. 
@@ -110,11 +110,11 @@ Connects to:
 					- -> maybe not worth spending TOO much time on these
 			- **More worthwhile as theoretical discussions in the early chapters, and as a foundation for where we are today**
 		- Evans et al 2009-present
-			- Discussion of the changing of the genetic categories provided in [[Evans et al 2017]] and other works due here. 
+			- Discussion of the changing of the genetic categories provided in [[20250702_ARCHIVE_Old_Notes/Readings/Evans et al 2017]] and other works due here. 
 				- Requires an understanding of the previous classification "Morehead-Upper Maro family"
 	- Genetic affiliation
 		- wordlists and sound correspondences
-		- refer to [[Wurm 1975]] here, as well as Ross and more recent sources
+		- refer to [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm 1975]] here, as well as Ross and more recent sources
 	- [[Palmer 2017]] "Languages and Linguistics of the New Guinea Area" has a number of pertinent chapters
 		- 1. language families of the new guinea area
 		- 2. the TNG family
@@ -130,13 +130,13 @@ Connects to:
 			- Typological overview
 
 
-- there are some questions I have after writing [[Assessment]] 3 for LING9032
+- there are some questions I have after writing [[20250702_ARCHIVE_Old_Notes/Coursework/LING9032/Assessment]] 3 for LING9032
 	- I should identify characteristics of the TNG family that exclude Yam languages
 		- Likely described by [[Ross 2005]], and maybe elsewhere in that volume
 		- Also described by Evans somewhere
 		- Also in the 'Languages and Linguistics of the New Guinea area' book (described above), the chapter on the TNG family
 	- I need to describe the grouping by Wurm and them, and show what it is based on (cognates and something else, shared grammatical structures?) 
-	- Is this a chapter to include comparative wordlists from my data and that of [[Riley & Ray 1930]] and [[Williams 1936]]? 
+	- Is this a chapter to include comparative wordlists from my data and that of [[Riley & Ray 1930]] and [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams 1936]]? 
 
 - -> Sources I've found but haven't included in Assignment 3 or my CoC written
 	- Lyons 1914 - Report on BNG contains wordlists from the languages spoken between the Wassi Kussa and the Dutch border

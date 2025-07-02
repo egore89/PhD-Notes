@@ -1,6 +1,6 @@
 - Phonology and language-specific vs cross linguistic phonological categories
-	- [[Haspelmath 2010]] has a section with some resources to start with
-	- Fries & pike 1949 [[General reading thoughts]] 
+	- [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2010]] has a section with some resources to start with
+	- Fries & pike 1949 [[20250702_ARCHIVE_Old_Notes/General reading thoughts]] 
 - Stress, intonation
 	- Himmelman article from Laura
 - Definition of a word (and sentence?)

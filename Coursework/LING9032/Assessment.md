@@ -116,7 +116,7 @@ Categories:
 		- theoretical framework
 	- Scope
 		- Including an outline of the sections of the thesis. 
-		- Takes a bottom-up approach to structure, following [[Mosel 2006]] section 6.2
+		- Takes a bottom-up approach to structure, following [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Catching Language/Mosel 2006]] section 6.2
 	- Overview of the thesis structure
 		- different from the typological overview section of the background chapter, which goes into specifics
 		- -> this section is saying "chapter 2 does this, chapter 3 does this including this and this..." \[**DONE**]
@@ -153,7 +153,7 @@ Categories:
 	- Riley and Ray 1930 lists 3 languages. Peremka, related to Bangu; Dorro, and Parb. These are noted as samples from larger language groups.
 
 
-This assignment is to write out a part of a chapter, and I'd like to cover the history and literature published on the Yam family/southern New Guinea/Trans-Fly region. My inspiration is [[Arnold 2018]] and her coverage of previous research on Ambel and the other Raja Ampat languages. 
+This assignment is to write out a part of a chapter, and I'd like to cover the history and literature published on the Yam family/southern New Guinea/Trans-Fly region. My inspiration is [[20250702_ARCHIVE_Old_Notes/Readings/PhDs/Arnold 2018]] and her coverage of previous research on Ambel and the other Raja Ampat languages. 
 Structure:
 - Introduction
 	- -> Short, give a quick overview of what is to come?
@@ -168,7 +168,7 @@ Structure:
 	- Of which the present thesis is a part.
 
 - Where do I discuss how we define "language" in this region? In each phase individually? As a conclusion or summary paragraph?
-- How do I frame this? As European research in the area? I can say something about the "dialect nicknames" in [[Williams 1936]] with reference to [[Ayres 1983]] about how the people who speak these languages have long had an understanding of language, connected to place. In the introduction.
+- How do I frame this? As European research in the area? I can say something about the "dialect nicknames" in [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams 1936]] with reference to [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Ayres 1983]] about how the people who speak these languages have long had an understanding of language, connected to place. In the introduction.
 
 - This section serves primarily as the 'locate a study in time, location, or culture' part of the background work. Secondarily it covers identification of current theory, including the development of that. 
 	- Do I need to consider or cover the question of how has linguistic inquiry changed since the 1890s? What were the goals of linguistics as a field then? And the context in which Ray and them were working? Or is it enough to simply mention them, now that we are so far removed from that time? 

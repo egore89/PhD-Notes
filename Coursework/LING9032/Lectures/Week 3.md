@@ -10,7 +10,7 @@ Literature Review Goals:
 - underpinned by a point of view or argument that makes this cohesive
 	- -> there are gaps in the literature, these are important to address
 	- \* -> why is it important to include Namo in our understanding of Yam languages, southern New Guinea languages, distributed exponence, etc...
-- What descriptive grammars & PHDs does [[Arnold 2018]] refer to? Worth getting
+- What descriptive grammars & PHDs does [[20250702_ARCHIVE_Old_Notes/Readings/PhDs/Arnold 2018]] refer to? Worth getting
 	- This will give me different conventions and requirements for other universities outside ANU
 
 - Scope of the background readings:
@@ -63,7 +63,7 @@ Literature Review Structure
 - Sources that fit multiple sections of the literature review may be referenced multiple times; in each section for which it is relevant
 	- these can also make good segues or links between different sections/topics
 
-![[Week 3 example of lit review.png]]
+![[PhD_Notes/Coursework/LING9032/Lectures/Week 3 example of lit review.png]]
 
 - TODO Prominence, stress, prosody
 	- an area of Phonetics receiving interest

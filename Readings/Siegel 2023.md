@@ -9,7 +9,7 @@ A Papuan language of southern New Guinea
 	year = {2023},
 }
 
-Referring back to this book regularly as it is a closely related language to Namo. Some thoughts will be in here, likely most thoughts regarding Namo will be in [[Working Thesis overview]] and corresponding chapters.
+Referring back to this book regularly as it is a closely related language to Namo. Some thoughts will be in here, likely most thoughts regarding Namo will be in [[20250702_ARCHIVE_Old_Notes/Working Thesis/Working Thesis overview]] and corresponding chapters.
 
 
 # Chapter 3: Nominal Morphology

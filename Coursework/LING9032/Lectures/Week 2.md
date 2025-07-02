@@ -64,7 +64,7 @@ Planning and Introducing your study
 - Something to look into TODO
 	- spontaneous vs elicited data 
 		- how to gather spontaneous data?
-			- add a section to [[Elicitation notes]]
+			- add a section to [[20250702_ARCHIVE_Old_Notes/Elicitation notes]]
 
 - people reading my thesis might not be familiar with the socio linguistic context of the project
 	- this is why there is such a large section about this.

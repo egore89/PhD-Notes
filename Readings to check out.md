@@ -2,20 +2,20 @@
 
 
 - [ ]  Fries & Pike 1949 "Coexistent phonemic systems"
-		An early example of single description covering multiple lectal variants. Suggested from [[Ameka et al. 2006]] Introduction. 
+		An early example of single description covering multiple lectal variants. Suggested from [[PhD_Notes/Readings/Grammar Writing/Catching Language/Ameka et al. 2006]] Introduction. 
 		PDF downloaded to "readings found"
 - [ ] Kamp & Rohrer 1983 "Tense in Texts"
 		Discourse Representation Theory, "(if) the semantics of tense necessarily involves reference to discourse context..."
-		Suggested from [[Ameka et al. 2006]] Introduction. 
+		Suggested from [[PhD_Notes/Readings/Grammar Writing/Catching Language/Ameka et al. 2006]] Introduction. 
 		PDF downloaded to "readings found"
 - [x] Hitchcock 2004 "Wildlife is Our Gold: Political Ecology of the Torassi River Borderland, Southwest Papua New Guinea"
 		PhD thesis
-		Cited repeatedly in [[Hitchcock 2010]] when discussing general social structure of the Morehead area. Particularly discusses sections and social groupings.
+		Cited repeatedly in [[PhD_Notes/Readings/Anthropology Readings/Hitchcock 2010]] when discussing general social structure of the Morehead area. Particularly discusses sections and social groupings.
 		Worth checking briefly to see whether it contains more/other information than Hitchcock 2010.
 		PDF downloaded to "General Readings"
 - [x] Tapari 1988 "Problems of Rural Development in the Western Papuan Fringe: A Case Study of the Morehead District, Western Province."
 		Working paper published in PNG by a man from PNG.
-		Cited in [[Hitchcock 2010]] when discussing movement of people between wet- and dry-seasons.
+		Cited in [[PhD_Notes/Readings/Anthropology Readings/Hitchcock 2010]] when discussing movement of people between wet- and dry-seasons.
 		Might be worth looking at to see if it contains new/more information on local people movement. Prioritising any accounts of which peoples lived where.
 		Available from ANU Print repository.
 - [ ] Shopen 2007 OR 1985 "Language typology and syntactic description"
@@ -31,8 +31,8 @@
 		Robert Dixon, 2010
 		3 volumes, available online through ANU library
 		Worth skimming for an introductory understanding of the theory
-		Referenced in [[Arnold 2018]] as a helpful framework on linguistic analysis
-		?? Do these contain more than in [[Dixon 1997]] or [[Dryer 2006]]??
+		Referenced in [[PhD_Notes/Readings/PhDs/Arnold 2018]] as a helpful framework on linguistic analysis
+		?? Do these contain more than in [[PhD_Notes/Readings/Grammar Writing/Theoretical frameworks/Dixon 1997]] or [[PhD_Notes/Readings/Grammar Writing/Catching Language/Dryer 2006]]??
 - [ ] Functional grammar of Gooniyandi
 		William B McGregor, 1990
 		Available online through ANU library

@@ -18,8 +18,8 @@
 | 11  | Upper Morehead & Suki                         | 12.3-3.4.55    | 157-165 | p.163 discusses moving a village; reasons and responses |
 | 12  | Lower Morehead & Bensbach                     | 16.4-28.4.55   | 166-178 |                                                         |
 
-- Map on p. 65 shows a place named "Kwaler" close to Tais and Moibut. Is this place mentioned in [[Williams 1936]] [[Williams' Fieldnotes]]?
-	- see map on p.85/106 in [[Ayres 1983]] as a "place named in myths". Also confirms Tuj as Tais.
+- Map on p. 65 shows a place named "Kwaler" close to Tais and Moibut. Is this place mentioned in [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams 1936]] [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams' Fieldnotes]]?
+	- see map on p.85/106 in [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Ayres 1983]] as a "place named in myths". Also confirms Tuj as Tais.
 - Map on p. 66 shows Iauga on western bank of Wassi Kussa.
 
 - p.105 mentions Moibut as abandoned. 

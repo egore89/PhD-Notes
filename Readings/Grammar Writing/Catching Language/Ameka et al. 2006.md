@@ -48,7 +48,7 @@ Ameka, Dench, & Evans 2006
 ### Questions
 - Why am I reading this?
 I'm giving this a re-read for my LING9032 assignment. 
-I feel this is a decent summary of the challenges of grammar writing, with as little distraction by specifics such as [[Haspelmath 2009]] and [[Haspelmath 2007]] as possible.
+I feel this is a decent summary of the challenges of grammar writing, with as little distraction by specifics such as [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2009]] and [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2007]] as possible.
 
 - What information do I need from this reading?
 Basically I'm looking for a summary.

@@ -12,11 +12,11 @@
 
 - 'stop' /aβraŋgo/ ends in an /o/ but this is dropped in imperative dual
 	- -> /k-aβraŋg-end/
-	- -> a morphophonemic rule? [[Phonology]]
+	- -> a morphophonemic rule? [[PhD_Notes/Working Thesis/Phonology]]
 - this same occurs in the plural of this paradigm, except with the plural suffix which appears to be /-angi/ but here is /-ngi/
 
 - in 20130920-E annotation 25 Eniam gives /norjan/ as a suggestion for 'I'm trying to stop' (? instead of /nuβŋgon/)
-	- -> c.f. [[Nick 04.2.25]] where he states 'talk and do' are the same verb in Nen
+	- -> c.f. [[20250702_ARCHIVE_Old_Notes/Meeting Notes/Nick 04.2.25]] where he states 'talk and do' are the same verb in Nen
 		- -> /norjan/ is given as 'speak' in 20130920-H annot. 24
 - -> I'm not saying that /norjan/ should be used in the case of 'I'm trying to stop' but it seems like this confirms what Nick said that 'talk' and 'do' are the same word.
 	- -> could be a useful elicitation tool

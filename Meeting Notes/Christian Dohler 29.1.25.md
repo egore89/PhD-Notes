@@ -16,7 +16,7 @@ Topics
 - 1-2 pages for research proposal. 
 	- Emphasize connections to community, mention names and sources specifically.
 - might need a list of differences between tais and mari vocabulary/sounds with examples
-- Namat: "recent" split from nama. Details apparently in [[Ayres 1983]]
+- Namat: "recent" split from nama. Details apparently in [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Ayres 1983]]
 - aspectual differences may be harder to get and harder to understand. Perfective may not mean the same thing in Yam languages as in European languages. "may be more punctual / related to the start of an event, not the end". Texts help with these issues. Record, transcribe, translate; priorities in the field. Save glossing for later.
 - start with the mechanics of the forms; how they work and what they do in the texts. try to figure out the function (grammar) later.
 

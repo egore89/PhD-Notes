@@ -8,7 +8,7 @@
 - imperative prefix /kən-/ in 'go' paradigm also present in 'come' imperatives
 	- interestingly, it appears in all numbers, where number appears to be shown by suffixes
 	- note too that this is the paradigm that differs so significantly from the infinitival 'is coming' series
-		- -> which also appears with the /kəsh/ word that I don't know what to do with [[Lexicon]]
+		- -> which also appears with the /kəsh/ word that I don't know what to do with [[PhD_Notes/Working Thesis/Lexicon]]
 	- -> does the infinitival '(noun) is going' paradigm change?
 		- 'x ksh engm' for 'x is going' (plural)?
 			- 'jnd darut wngm' is 'i am going to Daru'
@@ -22,7 +22,7 @@
 - the nominaliser/infinitival suffix /-ð/ followed by the ?purposive?allative? suffix /-(ə/o)t/
 	- seen in 20130920-E annotation 25 'i'm trying to stop' and 
 	- -> compared to the purely nominal purposive suffix seen in 20130921-F 'I'm going for (the purpose of) water' where it is clearly /-ot/ 
-		- -> are these the same suffix? c.f. [[Siegel 2023]] where I believe they are
+		- -> are these the same suffix? c.f. [[20250702_ARCHIVE_Old_Notes/Readings/Siegel 2023]] where I believe they are
 			- also check [[Kashima 2020]] and [[Positional verbs in Nen]] for Nmbo and Nen data
 
 - 20130920-E annotations 46-7 show different time depths to 'past' tense

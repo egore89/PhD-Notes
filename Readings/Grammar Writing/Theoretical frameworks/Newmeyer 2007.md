@@ -4,8 +4,8 @@ Newmeyer, Frederick J. 2007
 
 ### Questions
 - Why am I reading this?
-[[Haspelmath 2010]] refers to being a direct response to this article.
-Provides a counter to the "no categories exist" arguments of [[Haspelmath 2007]] and [[Haspelmath 2009]]
+[[PhD_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2010]] refers to being a direct response to this article.
+Provides a counter to the "no categories exist" arguments of [[PhD_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2007]] and [[PhD_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2009]]
 
 - What information do I need from this reading?
 I'm looking for a summary. 
@@ -51,7 +51,7 @@ Section 2
 		- Indeed, "affix" is difficult to define semantically, as is the concept of a "head" of a construction
 
 Section 3
-- Acknowledges that cross linguistic formal categories may be problematic, but argues that universal concepts (or substance, as in [[Haspelmath 2007]]) are also very difficult to define.
+- Acknowledges that cross linguistic formal categories may be problematic, but argues that universal concepts (or substance, as in [[PhD_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2007]]) are also very difficult to define.
 	- an example: thematic roles
 
 Section 4

@@ -40,8 +40,8 @@
 		- References for:
 			- Sea level rises -> Has it risen in the Torres Strait already? If not, in the Pacific/Australia? -> How much has it risen?
 			- Adverse weather events rising in Torres Strait, or Northern Australia
-				- Yaoga was destroyed by a cyclone (according to [[Evans et al 2017]]) and the language has mostly disappeared
-					- BECAUSE language use is tied to place ([[Ayres 1983]], [[Dohler 2018]]), and so Namo may die out even if the people who speak it don't; all it would take is for all of them to move to a new place and the language would stop being spoken. 
+				- Yaoga was destroyed by a cyclone (according to [[PhD_Notes/Readings/Evans et al 2017]]) and the language has mostly disappeared
+					- BECAUSE language use is tied to place ([[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]], [[Dohler 2018]]), and so Namo may die out even if the people who speak it don't; all it would take is for all of them to move to a new place and the language would stop being spoken. 
 
 - PhD projects change regularly, and while I'm determined to write a grammar of Namo, I have a few ideas for how this project may change
 	- Ideal: I will produce a grammar of Namo with data from Mari and Tais, clarifying the language situation and discovering some interesting grammatical features to justify the project.
@@ -58,11 +58,11 @@
 
 - I'm really interested in the language ecology of Tais itself.
 	- From NE I have that they speak Na (namo) and Len, due to the movement of people from Yaoga to Tais in the 1970s. 
-	- [[Ayres 1983]] places the boundary between Namo and Lan (Len) in a space that seems to be between Tais and Mari.
-	- A map on page 124 (10) of [[Wurm 1971]] groups Tais and Mari together as speaking Dorro, but also includes Nambu into Tais. Page 126 (12) states that Tais is a 'Nambu-Dorro transition dialect'. Mari is listed as speaking Dorro.
+	- [[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]] places the boundary between Namo and Lan (Len) in a space that seems to be between Tais and Mari.
+	- A map on page 124 (10) of [[PhD_Notes/Readings/Historical Linguistic Descriptions/Wurm 1971]] groups Tais and Mari together as speaking Dorro, but also includes Nambu into Tais. Page 126 (12) states that Tais is a 'Nambu-Dorro transition dialect'. Mari is listed as speaking Dorro.
 		- This map also places Bimadebun as speaking Idi. 
 	- SIL report from 2006 states that people in Mari identify Tais as mostly (but not entirely) the same as their own language, 3 out of possible 4 in similarity.
-	- [[Williams 1936]] places a village 'Doro' very far north in the region.
+	- [[PhD_Notes/Readings/Anthropology Readings/Williams 1936]] places a village 'Doro' very far north in the region.
 - -> some of these questions aren't very useful to questions of "how did the area get to be so linguistically diverse?" or "how did Yam languages develop" but they are very interesting to questions of "what do linguistically diverse communities look like" or even "what did communities maybe look like in the past"
 	- The problem is that these questions aren't addressed by a linguistic grammar. 
 

@@ -18,7 +18,7 @@
 	- latex/word files
 	- new files with dates in names for updates
 		- can delete old versions after a while
-- Read [[Evans et al 2017]] for a good intro overview of the area
+- Read [[20250702_ARCHIVE_Old_Notes/Readings/Evans et al 2017]] for a good intro overview of the area
 - Other background readings
 	- grammatology
 	- fieldwork

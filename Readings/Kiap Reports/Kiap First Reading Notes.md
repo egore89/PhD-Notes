@@ -3,7 +3,7 @@
 	- other kinds of reports?
 	- parliamentary reports?
 - Note the year the report was made, and who the officer/s involved were, then compare to previous reports in the same area. Might take some time.
-	- Different officer names seem to correspond to different areas. Mr. Kelly in trans-Fly. Mr. Young in Bensbach. [[More1972]]
+	- Different officer names seem to correspond to different areas. Mr. Kelly in trans-Fly. Mr. Young in Bensbach. [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1972]]
 
 
 - 1950 Inhabitants moved from Moibut to Tais 

@@ -24,7 +24,7 @@ Largely focused on specifics of regional development. Contains an assessment of 
 
 - "Traditionally the local people lived in isolated hamlets in family groups which colonial government and missionaries consolidated into larger villages". p. 8
 - This has begun to disintegrate (at time of writing). "The resumption of traditional settlement patterns in mainly by family or clan groups". 
-	- described further in [[Ayres 1983]] p.17/38
+	- described further in [[PhD_Notes/Readings/Anthropology Readings/Ayres 1983]] p.17/38
 
 - p.15 lists some factors limiting development. One of note is a 32km "quarantine zone" along the border with Indonesia. No "economic crops and animals" are allowed to be transported out of this zone. I wonder whether this is still the case?
 	- p.16 Crops established around Rouku were destroyed when this zone was implemented. ?How far is Tais from the border?

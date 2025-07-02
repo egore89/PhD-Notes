@@ -28,7 +28,7 @@ Goals for reading this thesis
 	- 4 pages, including maps and figures
 
 - "The Ambel social system is arranged according to exogamous clans: when one marries, one must marry outside of one's own clan". 
-	- What does "social system" mean here, and how does it compare/relate to the anthropological descriptions provided by, for example, [[Ayres 1983]] and [[Williams 1936]]? 
+	- What does "social system" mean here, and how does it compare/relate to the anthropological descriptions provided by, for example, [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Ayres 1983]] and [[20250702_ARCHIVE_Old_Notes/Readings/Anthropology Readings/Williams 1936]]? 
 
 - Lots of footnotes. 
 

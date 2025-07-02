@@ -26,33 +26,33 @@ Dates as listed in the UCSD library database, rather than the actual dates of th
 
 | Town     | Year 19- | Ref. No.      |            1st reading Notes?             | PDF Pages | D'load |
 | -------- | -------- | ------------- | :---------------------------------------: | --------- | :----: |
-| Morehead | 43-44    | [[More1943]]  |                     y                     | 17        |   y    |
-|          | 46-47    | [[More1946]]  |                     y                     | 60        |   y    |
-|          | 50-53    | [[More1950]]  |                     y                     | 208       |   y    |
+| Morehead | 43-44    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1943]]  |                     y                     | 17        |   y    |
+|          | 46-47    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1946]]  |                     y                     | 60        |   y    |
+|          | 50-53    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1950]]  |                     y                     | 208       |   y    |
 |          | 58-59    | --            |           w/Morehead, Suki c/d            |           |        |
-|          | 59-60    | [[More1959]]  |                     y                     | 80        |   y    |
+|          | 59-60    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1959]]  |                     y                     | 80        |   y    |
 |          | 60-61    | --            |     (Bensbach, Suki, Upper Morehead)      |           |        |
-|          | 61-62    | [[More1961]]  |                     y                     | 76        |   y    |
-|          | 62-63    | [[More1962]]  |                     y                     | 65        |   y    |
-|          | 63-64    | [[More1963]]  |                     y                     | 61        |   y    |
+|          | 61-62    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1961]]  |                     y                     | 76        |   y    |
+|          | 62-63    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1962]]  |                     y                     | 65        |   y    |
+|          | 63-64    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1963]]  |                     y                     | 61        |   y    |
 |          | 64-65    | --            |         Bensbach, upper Morehead          |           |        |
 |          | 65-66    | --            | Morehead-Weam road, Rouku, Uparua, Setavi |           |        |
-|          | 66-67    | [[More1966]]  |                     y                     | 64        |   y    |
-|          | 67-68    | [[More1967]]  |                     y                     | 71        |   y    |
+|          | 66-67    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1966]]  |                     y                     | 64        |   y    |
+|          | 67-68    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1967]]  |                     y                     | 71        |   y    |
 |          | 68-69    | --            |         Serki villages, Saru c/d          |           |        |
-|          | 69-70    | [[More1969]]  |                     y                     | 99        |   y    |
-|          | 70-71    | [[More1970]]  |                     y                     | 71        |   y    |
-|          | 71-72    | [[More1971]]  |                     y                     | 151       |   y    |
-|          | 72-73    | [[More1972]]  |                     y                     | 108       |   y    |
-|          | 73-74    | [[More1973]]  | No details, only title pages and receipts | 20        |   y    |
-| Rouku    | 53-55    | [[Rouk1953a]] |                     y                     | 178       |   y    |
-|          | 53-56    | [[Rouk1953b]] |                     y                     | 168       |   y    |
-|          | 55-56    | [[Rouk1955]]  |                     y                     | 96        |   y    |
-|          | 56-57    | [[Rouk1956]]  |                     y                     | 84        |   y    |
-|          | 57-58    | [[Rouk1957]]  |                     y                     | 36        |   y    |
-|          | 58-59    | [[Rouk1958]]  |                     y                     | 80        |   y    |
-| Daru     | 03       | [[Daru1903]]  |                   y<br>                   | 32        |   y    |
-|          | 08-39    | [[Daru1908]]  |                     y                     | 69        |   y    |
+|          | 69-70    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1969]]  |                     y                     | 99        |   y    |
+|          | 70-71    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1970]]  |                     y                     | 71        |   y    |
+|          | 71-72    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1971]]  |                     y                     | 151       |   y    |
+|          | 72-73    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1972]]  |                     y                     | 108       |   y    |
+|          | 73-74    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Morehead/More1973]]  | No details, only title pages and receipts | 20        |   y    |
+| Rouku    | 53-55    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Rouku/Rouk1953a]] |                     y                     | 178       |   y    |
+|          | 53-56    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Rouku/Rouk1953b]] |                     y                     | 168       |   y    |
+|          | 55-56    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Rouku/Rouk1955]]  |                     y                     | 96        |   y    |
+|          | 56-57    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Rouku/Rouk1956]]  |                     y                     | 84        |   y    |
+|          | 57-58    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Rouku/Rouk1957]]  |                     y                     | 36        |   y    |
+|          | 58-59    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Rouku/Rouk1958]]  |                     y                     | 80        |   y    |
+| Daru     | 03       | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Daru/Daru1903]]  |                   y<br>                   | 32        |   y    |
+|          | 08-39    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Daru/Daru1908]]  |                     y                     | 69        |   y    |
 |          | 11       | Daru1911a     |                                           |           |   y    |
 |          | 11-12    | Daru1911b     |                                           |           |   y    |
 |          | 12-13    | Daru1912      |                                           |           |   y    |
@@ -65,7 +65,7 @@ Dates as listed in the UCSD library database, rather than the actual dates of th
 |          | 16-17    | Daru1916      |                                           |           |   y    |
 |          | 17-18    | Daru1917      |                                           |           |   y    |
 |          | 18-19    | Daru1918      |                                           |           |   y    |
-|          | 19-20    | [[Daru1919]]  |                     y                     | 149       |   y    |
+|          | 19-20    | [[PhD_Notes/Readings/Kiap Reports/Kiap Notes/Daru/Daru1919]]  |                     y                     | 149       |   y    |
 |          | 20-21    | Daru1920      |                                           |           |   y    |
 |          | 21-22    | Daru1921      |                                           |           |   y    |
 |          | 22-23    | Daru1922      |                                           |           |   y    |

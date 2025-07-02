@@ -1,13 +1,13 @@
 - Sections for the background
-	- [[History of linguistic study in the Morehead area]]
+	- [[PhD_Notes/Working Thesis/History of linguistic study in the Morehead area]]
 	- Grammar writing theory
 		- Basic Linguistic Theory
 		- A review and engagement with literature on this subject
-			- [[Dixon 1997]]
+			- [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Dixon 1997]]
 				- Dixon 2010 
 					- ?? does this need to be more than a sentence such as 
 						- This theory was fleshed out in Dixon 2010 however the basics are covered in 1997 and Dryer 2006.
-			- [[Ameka et al. 2006]] Catching Language
+			- [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Catching Language/Ameka et al. 2006]] Catching Language
 			- Perspectives on Grammar Writing
 			- The Art and Practice of Grammar Writing
 			-  Functional Grammar of Gooniyandi
@@ -21,9 +21,9 @@
 	- ==some wordlists are available==
 - Searching 'british new guinea report' yields a number of these reports from the late 19th century
 
-- Zero Patient prefix used with A-aligned Intransitive verbs in [[Siegel 2023]] is equivalent to Middle prefix/verbs in [[Evans 2014]]. Siegel's P-aligned Intransitive verbs are Evans' Prefixing, highly restricted verb class.
+- Zero Patient prefix used with A-aligned Intransitive verbs in [[20250702_ARCHIVE_Old_Notes/Readings/Siegel 2023]] is equivalent to Middle prefix/verbs in [[20250702_ARCHIVE_Old_Notes/Readings/Evans 2014]]. Siegel's P-aligned Intransitive verbs are Evans' Prefixing, highly restricted verb class.
 
-- Debate regarding framework-free description as outlined in [[Haspelmath 2009]] could be worth describing and aligning with one side in a background chapter
+- Debate regarding framework-free description as outlined in [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2009]] could be worth describing and aligning with one side in a background chapter
 	- this kind of summary is not something I've seen in other descriptive grammars
 	- if I am introducing new terms for different grammatical structures then it might be worth having a section of these in the introduction.
 - Is there space for me to have a "typological comparison" or "comparative concepts" chapter at the end? Using Basic Linguistic Theory, or another framework? An attempt to bridge descriptive and comparative linguistics/typology?
@@ -33,8 +33,8 @@
 	- Prioritises an approach that does not apply categories to Namo, tries to describe the language on its own terms.
 - At the end of the day, I want to describe Namo without trying to force it to fit certain frameworks, but I also need to use concepts such as affix, verb, word order formal characteristics, morphosyntactic processes. 
 	- I would like to include more than just one sentence in my "theoretical framework" section
-		- State/summarize the goals of [[Haspelmath 2009]] as "describing the language on its own terms"
-		- Acknowledge from [[Newmeyer 2007]] that certain categories are extremely useful, and that formal criteria are widely used and useful for describing and understanding certain phenomena
+		- State/summarize the goals of [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Haspelmath 2009]] as "describing the language on its own terms"
+		- Acknowledge from [[20250702_ARCHIVE_Old_Notes/Readings/Grammar Writing/Theoretical frameworks/Newmeyer 2007]] that certain categories are extremely useful, and that formal criteria are widely used and useful for describing and understanding certain phenomena
 		- Where does Basic Linguistic Theory fit? Do I list it as the foundation? Or describe more as the foundation?
 		- Referring to other published work on Yam languages as a guide for what formal characteristics to expect
 			- Could I have a chapter on unexpected finds? A section? Something to show that I thought about and held space for things not described in other languages?

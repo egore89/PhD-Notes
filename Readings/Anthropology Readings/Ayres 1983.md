@@ -63,7 +63,7 @@ First reading:
 - "Masu" village
 	- map on pdf.151 indicates it is near the Morehead river, beteween Rouku (tjevethak) and Morehead station.
 - Culture Groups, Languages, and Neighbours p.24/45
-	- Names "Tonda" and "Nambu" come from [[Wurm 1971]]
+	- Names "Tonda" and "Nambu" come from [[20250702_ARCHIVE_Old_Notes/Readings/Historical Linguistic Descriptions/Wurm 1971]]
 		- Tonda as the place, Nambu as the "dialect name"
 		- Ayres refers to branches as languages, and what we call languages as dialects.
 	- The process of using the word for "what" as the dialect (language) name in Nambu branch languages comes from "mythical times" in the story of the origin tree. p. 27/48. 
@@ -83,7 +83,7 @@ First reading:
 	- significantly: 
 		- La (in brackets?) covers what must be Tuj, about halfway between wassi kussa river and the border of Nambu/Tonda.
 - Dialects mark different localities p.134/155. in Nambu speaking areas.
-- p.138/159 and following for a description of what I believe to be the splitting of Nama into Nama and Namat mentioned in [[Christian Dohler 29.1.25]]
+- p.138/159 and following for a description of what I believe to be the splitting of Nama into Nama and Namat mentioned in [[20250702_ARCHIVE_Old_Notes/Meeting Notes/Christian Dohler 29.1.25]]
 - Tabaram village described as uninhabited, with inhabitants moving "southward" to Arufi and Kianjei. p.140/161
 - Map on p. 143/164 shows villages and language groups
 	- Tuj placed in "La si"
